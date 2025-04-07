@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+C:\Users\lenovo\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-1783984894.index
-1142990880.index
-1865797976.index
-3819053685.index
-3413270776.index
