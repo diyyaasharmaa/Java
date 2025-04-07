@@ -1,0 +1,19 @@
+package javaprog;
+
+public class StringDSA {
+	public static void main(String[] args) {
+		String a="diya";
+		String b="diya";
+		
+		String c= new String("diya");
+		String d= new String("diya");
+		System.out.println(a==b);
+		System.out.println(a==c);
+		System.out.println(d==c);
+		
+		
+	
+		
+	}
+
+}
